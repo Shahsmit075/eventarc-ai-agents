@@ -34,6 +34,7 @@ sequenceDiagram
     PlanAgent->>Bus: Emit fulfillment.plan.created event
 ```
 
+![arch.png](arch.png)
 ---
 
 ## Directory Structure
